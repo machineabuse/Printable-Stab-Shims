@@ -13,6 +13,7 @@ When using these below the PCB, Take a long hard look at the componentry to make
 - Print in PLA
 - 0.2mm layer height
 - 0.5mm extrution width
+- print in 100% layers (no infill)
 
 ## Made in Sketchup Free
 
