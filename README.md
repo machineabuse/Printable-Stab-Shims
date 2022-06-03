@@ -1,8 +1,8 @@
 # Printable-Stab-Shims
 Printable stabilizer shims for your thin keyboard PCB
-<span style="color:red"> *some emphasized markdown text*</span>
+
 ## 1.0 Description
-This repository holds a handful of .STLs for stabilizer shims for various situations. If you need just a basic shim to go on top of the pcb, got you covered. If you need something to go on the back (component) side of the PCB; I've provided a range of shapes just in case you happen to have components in the way.
+This repository holds a handful of .STLs for stabilizer shims for various situations you may encounter. If you need just a basic shim to go on top of the pcb, got you covered. If you need something to go on the back (component) side of the PCB; I've provided a range of shapes just in case you happen to have components in the way. These shims are designed for Adapting full sized 1.6mm stabilizers to 1.2mm thickness PCBs.
 
 I would suggest that if you are getting these printed, get more than you need printed in case you need to modify the files further.
 
@@ -27,6 +27,8 @@ The "continous" Options are modeled in one continuous outer perimeter in an effo
 - 0.5mm extrution width
 - print in 100% layers (no infill)
 
-## 3.0 Open Source
+## 3.0 Modification & Open Source
 
-This project was modeled in in Sketchup Free. The .SKP files have been included in this repository if you would wish to use these as a basis for your own work. Kindly respect the open source licence.
+In the event you encounter any different thicknesses of PCB, I have included the files neccesary for you to modify and produce your own versions of these shims in .SKP format as this project was modeled in in Sketchup Free.
+
+If you would wish to use these as a basis for your own work kindly respect the open source licence and make derivatives of this work available to any who ask.
