@@ -41,8 +41,8 @@ The "continuous " Options are modeled in one continuous outer perimeter in an ef
 | 10x Continuous | 10x Continuous  | 5xPair Continuous | 10xPair Small/Big
 
 
-|Shim Type|Image|Single Unit|Pair|Print 5x|
-|------------|------------|------------|------------|
+| Shim Type | Image | Single Unit | Pair | Print 5x |
+|------------|------------|------------|------------|------------|
 |1|![image](https://user-images.githubusercontent.com/8606354/171825067-ca58ffd5-4983-49dc-9b46-53e00cbdb448.png)|Single|Pair(continuous)|10x(continuous)|
 |2|![image](https://user-images.githubusercontent.com/8606354/171825087-fa16eb8e-d3ee-4dca-bd84-37f49ab021c6.png)|Single|Pair(continuous)|10x(continuous)|
 |3|![image](https://user-images.githubusercontent.com/8606354/171825120-61a302a6-2de9-421b-bdd6-d578849b532d.png)|A and B Sides|A and B Sides(continuous)|5xPair(continuous)|
