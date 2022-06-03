@@ -6,7 +6,17 @@ This repository holds a handful of .STLs for stabilizer shims for various situat
 
 I would suggest that if you are getting these printed, get more than you need printed in case you need to modify the files further.
 
-When using these below the PCB, Take a long hard look at the componentry to make sure the shims are not interfering with anything. Also check after mounting your stabs that no intereference with your case is present. Might be awkward! 😄
+When using these below the PCB, Take a long hard look at the componentry to make sure the shims are not interfering with anything. Also check after mounting your stabs that no intereference with your case is present. Might be awkward! 🤪
+
+## Print configurations
+
+The "continous" Options are modeled in one continuous outer perimeter in an effort to increase the overall quality of the print.
+
+| Type 1     | Type 2    | Type 3    |
+|------------|-----------|-----------|
+| 1x   | 1x | A Side/B Side|
+| 2x Continuous   | 2x Continuous  | A Side/B Side Continuous|
+| 10x Continuous | 10x Continuous  | 5xPair Continuous |
 
 ## Suggested FDM Print Specifications
 
