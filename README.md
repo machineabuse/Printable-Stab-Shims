@@ -10,19 +10,19 @@ When using these below the PCB, Take a long hard look at the componentry to make
 
 ## 2.0 Printing
 
-#### 2.1.1 - Type 1
+-  2.1.1 - Type 1
 
 This is the simplest pattern. This is meant to be used between the stab housing and the PCB. I would suggest using this variation if you are using long pole switches as it raises the bottom out height by 0.4mm.
 
-#### 2.1.2 - Type 2
+- 2.1.2 - Type 2
 
 The "dogbone" pattern. This is designed to be used below the PCB, it has a symmetrical relief on either side to ensure these fit around hot swap sockets and other components that may get in the way.
 
-#### 2.1.3 - Type 3
+- 2.1.3 - Type 3
 
 The assymetric pattern. Designed to be used below the PCB, Type 3 is designed to be used in conjuction with Type 2 in cases where PCB componentry obstructs the fit. If you have a diode directly in the path of your mount, this may be the way to go.
 
-#### 2.1.4 - Type 4
+- 2.1.4 - Type 4
 
 The washer type. Used below the PCB. When all else fails to fit, you gotta do what you gotta do I guess.
 
