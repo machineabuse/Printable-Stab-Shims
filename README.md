@@ -13,6 +13,7 @@ When using these below the PCB, Take a long hard look at the componentry to make
 
 2.1.1 - Type 1
 - This is the simplest pattern. This is meant to be used between the stab housing and the PCB. I would suggest using this variation if you are using long pole switches as it raises the bottom out height by 0.4mm.
+![image](https://user-images.githubusercontent.com/8606354/171822647-ca022106-1dcf-49a8-8371-5d3b374d20ee.png)
 
 2.1.2 - Type 2
 - The "dogbone" pattern. This is designed to be used below the PCB, it has a symmetrical relief on either side to ensure these fit around hot swap sockets and other components that may get in the way.
