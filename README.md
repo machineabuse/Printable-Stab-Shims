@@ -21,7 +21,7 @@ When using these below the PCB, Take a long hard look at the componentry to make
 ![image](https://user-images.githubusercontent.com/8606354/171823253-b4bc6779-a900-4c5d-9d49-08ccc70d5364.png)
 
 2.1.3 - Type 3
-- The assymetric pattern. Designed to be used below the PCB, Type 3 is designed to be used in conjuction with Type 2 in cases where PCB componentry obstructs the fit. If you have a diode directly in the path of your mount, this may be the way to go.
+- The asymmetric pattern. Designed to be used below the PCB, Type 3 is designed to be used in conjuction with Type 2 in cases where PCB componentry obstructs the fit. If you have a diode directly in the path of your mount, this may be the way to go.
 ![image](https://user-images.githubusercontent.com/8606354/171823279-766ad50d-da1b-4d8a-ba27-681fdbbf4289.png)
 
 2.1.4 - Type 4
