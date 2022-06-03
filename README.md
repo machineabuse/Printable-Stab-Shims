@@ -30,7 +30,7 @@ The "continuous " Options are modeled in one continuous outer perimeter in an ef
 | Type 1     | Type 2    | Type 3    | Type 4 |
 |------------|-----------|-----------|-----------|
 | 1x   | 1x | A Side/B Side| 1x Small/Big |
-| 2x Continuous   | 2x Continuous  | A Side/B Side Continuous| 1 Pair Small/Big | 
+| 2x Continuous   | 2x Continuous  | A Side/B Side Continuous| 1xPair Small/Big | 
 | 10x Continuous | 10x Continuous  | 5xPair Continuous | 10xPair Small/Big
 
 ### 2.3 Suggested FDM Print Specifications
