@@ -35,8 +35,7 @@ The "continuous " Options are modeled in one continuous outer perimeter in an ef
 
 | Type 1     | Type 2    | Type 3    | Type 4 |
 |------------|-----------|-----------|-----------|
-| 1x ![image](https://user-images.githubusercontent.com/8606354/171824102-25b651e2-5ca0-4541-8f01-d20f7edbf27d.png)
-   | 1x | A Side/B Side| 1x Small/Big |
+| 1x ![image](https://user-images.githubusercontent.com/8606354/171824352-65a0994f-369c-4fcc-8bcf-67aa5c123cc0.png) | 1x![image](https://user-images.githubusercontent.com/8606354/171824380-de5fc2d8-5ee4-4382-9616-266e72959d13.png) | A Side/B Side![image](https://user-images.githubusercontent.com/8606354/171824465-c6583ce3-2b7f-4f52-93cf-151015e81b12.png) | 1x Small/Big![image](https://user-images.githubusercontent.com/8606354/171824546-177711b9-4e86-4a34-bff8-6aaa3f272032.png) |
 | 2x Continuous   | 2x Continuous  | A Side/B Side Continuous| 1xPair Small/Big | 
 | 10x Continuous | 10x Continuous  | 5xPair Continuous | 10xPair Small/Big
 
