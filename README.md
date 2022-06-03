@@ -24,7 +24,7 @@ The "continous" Options are modeled in one continuous outer perimeter in an effo
 
 - Print in PLA
 - 0.2mm layer height
-- 0.5mm extrution width
+- 0.5mm extrusion width
 - print in 100% layers (no infill)
 
 ## 3.0 Modification & Open Source
