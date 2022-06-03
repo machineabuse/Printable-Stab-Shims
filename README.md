@@ -25,7 +25,7 @@ When using these below the PCB, Take a long hard look at the componentry to make
 
 ### 2.2 Print configurations
 
-The "continous" Options are modeled in one continuous outer perimeter in an effort to increase the overall quality of the print.
+The "continuous " Options are modeled in one continuous outer perimeter in an effort to increase the overall quality of the print.
 
 | Type 1     | Type 2    | Type 3    | Type 4 |
 |------------|-----------|-----------|-----------|
