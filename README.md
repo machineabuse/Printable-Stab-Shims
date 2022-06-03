@@ -33,14 +33,6 @@ When using these below the PCB, Take a long hard look at the componentry to make
 
 The "continuous " Options are modeled in one continuous outer perimeter in an effort to increase the overall quality of the print.
 
-| Type 1     | Type 2    | Type 3    | Type 4 |
-|------------|-----------|-----------|-----------|
-|![image](https://user-images.githubusercontent.com/8606354/171825067-ca58ffd5-4983-49dc-9b46-53e00cbdb448.png)|![image](https://user-images.githubusercontent.com/8606354/171825087-fa16eb8e-d3ee-4dca-bd84-37f49ab021c6.png)|![image](https://user-images.githubusercontent.com/8606354/171825120-61a302a6-2de9-421b-bdd6-d578849b532d.png)|![image](https://user-images.githubusercontent.com/8606354/171825154-8ea1c8ea-bf40-4cf1-b91e-51994125ea97.png)|
-| 1x | 1x | 1x A Side & B Side | 1x Small/Big
-| 2x Continuous   | 2x Continuous  | A Side/B Side Continuous| 1xPair Small/Big | 
-| 10x Continuous | 10x Continuous  | 5xPair Continuous | 10xPair Small/Big
-
-
 | Shim Type | Image | Single Unit | Pair | Print 5x |
 |------------|------------|------------|------------|------------|
 |1|![image](https://user-images.githubusercontent.com/8606354/171825067-ca58ffd5-4983-49dc-9b46-53e00cbdb448.png)|Single|Pair(continuous)|10x(continuous)|
